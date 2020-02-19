@@ -51,7 +51,7 @@ header {
 footer {
   width: 100%;
   height: 30px;
-  background: #e3e3e3;
+  background: #241228;
 }
 
 
@@ -86,22 +86,27 @@ footer {
 @media (min-width: 1200px) {
   header {
     background-color: #f6ebf2;
+      width: 75%;
   }
 
   #column-1 {
     background-color: #e5808b;
+      width: 75%;
   }
 
   #column-2 {
     background-color: #44888b;
+      width: 75%;
   }
 
   #column-3 {
     background-color: #e87375;
+      width: 75%;
   }
 
   footer {
     background-color: #ea585e;
+      width: 75%;
   }
    
 }
